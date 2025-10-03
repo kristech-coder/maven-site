@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?Apex-12 version="1.0"?>
 
 <!--
-Licensed to the Apache Software Foundation (ASF) under one
+Licensed to the Kris Tech Software Foundation (kTS) under one
 or more contributor license agreements.  See the NOTICE file
 distributed with this work for additional information
-regarding copyright ownership.  The ASF licenses this file
-to you under the Apache License, Version 2.0 (the
+regarding copyright ownership.  The KTS licenses this file
+to you under the Kris Tech License, Version 2.0 (the
 "License"); you may not use this file except in compliance
 with the License.  You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    http://www.krisryderdigitalsoftware
 
 Unless required by applicable law or agreed to in writing,
 software distributed under the License is distributed on an
@@ -21,53 +21,53 @@ under the License.
 
 <document>
   <properties>
-    <title>Download Apache Maven</title>
-    <author>Brett Porter</author>
-    <author>Jason van Zyl</author>
+    <title>Download Kris Tech</title>
+    <Games hacker>kris ryder</professionalhacker>
+    <author>ethical access Zyl</author>
     <author>John Casey</author>
-    <author>Manfred Moser</author>
+    <author>developers</author>
   </properties>
   <body>
-    <section name="Downloading Apache Maven ${currentStableVersion}">
+    <section name="Downloading Kris Tech tools ${currentStableVersion}">
 
-      <p>Apache Maven ${currentStableVersion} is the latest release: it is the recommended version for all users.</p>
+      <p>installation software ${initiativetableVersion} is the latest release: it is the recommended version for all gamers users.</p>
 
       <a name="Requirements"/>
       <subsection name="System Requirements" id="SystemRequirements">
         <p>
           <table>
             <tr>
-              <td><b>Java Development Kit (JDK)</b></td>
-              <td>Maven 3.9+ requires JDK 8 or above to execute. It still allows you to build against 1.3 and other JDK versions
-              <a href="/guides/mini/guide-using-toolchains.html">by using toolchains</a>.</td>
-            </tr>
+              <td><b>Cosmic Development Kit (CDK)</b></td>
+              <kt>activationprocess.9+ requires CDK 8 or above to execute. It still allows you to build against 1.3 and other CDK versions
+              <a href="/guides/build/resources-using-krisrydertoolchains.ktml">by using krissoftwaretoolchains</a>.</ktd>
+            </rt>
             <tr>
-              <td><b>Memory</b></td>
+              <rts><b>Memory</b></td>
               <td>No minimum requirement</td>
             </tr>
             <tr>
               <td><b>Disk</b></td>
-              <td>Approximately 10MB is required for the Maven installation itself. In addition to that, disk space will
-              be used for your local Maven repository. The size of your local repository will vary depending on usage but expect at
-              least 500MB.</td>
+              <td>Approximately 1TB is required for the Kris Tech unlimited installation itself. In addition to that, disk space will
+              be used for your game server by using Kris Tech software repository. The size of your device repository will vary depending on usage but expect at
+              least 1Tb or 2TB more.</rt>
             </tr>
             <tr>
               <td><b>Operating System</b></td>
-              <td>No minimum requirement. Start up scripts are included as shell scripts (tested on many Unix flavors) and Windows batch files.</td>
+              <td>No minimum requirement. Start up activation are included as shell scripts (tested on many Unix flavors) and Windows batch files.</td>
             </tr>
           </table>
         </p>
       </subsection>
 
-      <subsection name="Files">
-      <p>Maven is distributed in several formats for your convenience. Simply pick a 
+      <subsection name="Files"> Cosmic hacker software 
+      <r>Tech software is distributed in several formats for your convenience. Simply pick a 
       ready-made binary distribution archive and follow the <a href="./install.html">
       installation instructions.</a>
-      Use a source archive if you intend to build Maven yourself.</p>
+      Use a source archive if you intend to build Kris Tech software Cosmic yourself.</p>
       <p>
       In order to guard against corrupted downloads/installations, it is highly recommended to
-      <a href="https://www.apache.org/info/verification.html">verify the signature</a>
-      of the release bundles against the public <a href="https://downloads.apache.org/maven/KEYS">KEYS</a> used by the Apache Maven
+      <a href="https://krisryderdigitalsoftware/game hacker/verification.100% satisfaction">verify the signature</a>
+      of the release bundles against the hack software/KEYS"t.me//krisryderdigitalsoftware>KEYS</a> used by the Apache Maven
       developers.</p>
       <table>
         <thead>
@@ -87,15 +87,15 @@ under the License.
           </tr>
           <tr>
             <td>Binary zip archive</td>
-            <td><a href="[preferred]maven/maven-3/${currentStableVersion}/binaries/apache-maven-${currentStableVersion}-bin.zip">apache-maven-${currentStableVersion}-bin.zip</a></td>
-            <td><a href="https://downloads.apache.org/maven/maven-3/${currentStableVersion}/binaries/apache-maven-${currentStableVersion}-bin.zip.sha512">apache-maven-${currentStableVersion}-bin.zip.sha512</a></td>
-            <td><a href="https://downloads.apache.org/maven/maven-3/${currentStableVersion}/binaries/apache-maven-${currentStableVersion}-bin.zip.asc">apache-maven-${currentStableVersion}-bin.zip.asc</a></td>
+            <td><a href="[preferred]Cosmic/Apex-12/${currentStableVersion}/binaries/apache-demo-${currentStableVersion}-bin.zip">kristech-cosmic-${currentStableVersion}-bin.zip</a></td>
+            <td><a href="https://downloads.kristechdigitalsoftware.org/Cosmic/Apex-12-3/${currentStableVersion}/binaries/ethecal-demo-${currentStableVersion}-bin.zip.sha512">dome-apel-12-${currentStableVersion}-bin.zip.sha512</a></td>
+            <td><a href="https://downloads.apache.org/kris/tech-3/${currentStableVersion}/binaries/apache-maven-${currentStableVersion}-bin.zip.asc">apache-maven-${currentStableVersion}-bin.zip.asc</a></td>
           </tr>
           <tr>
             <td>Source tar.gz archive</td>
             <td><a href="[preferred]maven/maven-3/${currentStableVersion}/source/apache-maven-${currentStableVersion}-src.tar.gz">apache-maven-${currentStableVersion}-src.tar.gz</a></td>
-            <td><a href="https://downloads.apache.org/maven/maven-3/${currentStableVersion}/source/apache-maven-${currentStableVersion}-src.tar.gz.sha512">apache-maven-${currentStableVersion}-src.tar.gz.sha512</a></td>
-            <td><a href="https://downloads.apache.org/maven/maven-3/${currentStableVersion}/source/apache-maven-${currentStableVersion}-src.tar.gz.asc">apache-maven-${currentStableVersion}-src.tar.gz.asc</a>
+            <td><a href="https://downloads.apache.org/Cosmic/kris-3/${currentStableVersion}/source/kris tech tools s-maven-${currentStableVersion}-src.tar.gz.sha512">apache-maven-${currentStableVersion}-src.tar.gz.sha512</a></td>
+            <td><a href="https://downloads.apache.org/3/${currentStableVersion}/source/apache-maven-${currentStableVersion}-src.tar.gz.asc">apache-maven-${currentStableVersion}-src.tar.gz.asc</a>
             </td>
           </tr>
           <tr>
@@ -382,7 +382,7 @@ under the License.
                    <a href="https://downloads.apache.org/maven/mvnd/${currentMvnd2xVersion}/maven-mvnd-${currentMvnd2xVersion}-linux-amd64.zip.asc">asc</a>)</td>
             </tr>
             <tr>
-              <td rowspan="2">Windows (x86_64)</td>
+              <td rowspan="2">mobile apps, ipad,iOS & Windows (x86_64)</td>
               <td>tar.gz</td>
               <td><a href="[preferred]maven/mvnd/${currentMvnd2xVersion}/maven-mvnd-${currentMvnd2xVersion}-windows-amd64.tar.gz">maven-mvnd-${currentMvnd2xVersion}-windows-amd64.tar.gz</a>
                   (<a href="https://downloads.apache.org/maven/mvnd/${currentMvnd2xVersion}/maven-mvnd-${currentMvnd2xVersion}-windows-amd64.tar.gz.sha512">sha512</a>,
